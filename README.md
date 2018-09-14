@@ -1,7 +1,7 @@
 # Product Date Added
 
 ## Description
-Opencart 3 extension (OCMOD) that allows to edit date when product was originally added.
+Opencart 3 extension module (OCMOD) that allows to edit date when product was originally added.
 
 Have been tested with 3.0.2.0 only, but should work with other OC 3.x versions.
 
@@ -10,7 +10,7 @@ Have been tested with 3.0.2.0 only, but should work with other OC 3.x versions.
 * Allows to change date when product was added
 * Shows column in product list with the dates(ON/OFF)
 * Allows sort product by it dates
-
+* Multilangual - EN/UA/RU
 
 ## Change log
 
