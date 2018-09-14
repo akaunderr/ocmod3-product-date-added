@@ -1,0 +1,126 @@
+End-User License Agreement (EULA) of Product Date Added (extension module for CMS Opencart)
+
+Last updated: 2018.09.07
+
+This End-User License Agreement ("EULA") is a legal agreement between the end
+user (the "Licensee" or "you") and Andrii Burkatskyi (the "Licensor")
+
+This EULA agreement governs your acquisition and use of our Product Date Added
+software (the "Software") directly from the Licensor or indirectly through a
+Andrii Burkatskyi authorized reseller or distributor (a "Reseller").
+
+Please read this EULA agreement carefully before completing the installation
+process and using the Software. It provides a license to use
+the Software and contains warranty information and liability
+disclaimers.
+
+If you register for a free trial of the Software software, this EULA
+agreement will also govern that trial. By clicking "accept" or installing
+and/or using the Software, you are confirming your acceptance
+of the Software and agreeing to become bound by the terms of this EULA
+agreement.
+
+If you are entering into this EULA agreement on behalf of a company or other
+legal entity, you represent that you have the authority to bind such entity and
+its affiliates to these terms and conditions. If you do not have such
+authority or if you do not agree with the terms and conditions of this EULA
+agreement, do not install or use the Software, and you must not accept this
+EULA agreement.
+
+This EULA agreement shall apply only to the Software supplied by
+Andrii Burkatskyi herewith regardless of whether other software is referred to
+or described herein. The terms also apply to any Andrii Burkatskyi updates,
+supplements, Internet-based services, and support services for the Software,
+unless other terms accompany those items on delivery. If so, those terms apply.
+
+
+Definitions
+
+Product Date Added (the "Software") means the Product Date Added software and
+includes:
+
+1. all its components developed and licensed by Burkatsky Andrii;
+2. any revisions, updates and/or upgrades thereto;
+3. anything in any form whatsoever intended to be used with or in
+   conjunction with the Product Date Added;
+4. any associated media and documentation.
+
+
+License Grant
+
+Andrii Burkatskyi hereby grants you a personal, non-transferable,
+non-exclusive licence to use the Software on your devices in
+accordance with the terms of this EULA agreement.
+
+The Software is licensed, not sold.
+
+
+Transfer
+
+Licensee may not sell, assign, or transfer the Software or the License granted by
+this EULA without prior written consent of the Licensor.
+
+
+Intellectual Property and Ownership
+
+Andrii Burkatskyi shall at all times retain ownership of the Software as
+originally downloaded by you and all subsequent downloads of the Software by
+you. The Software (and the copyright, and other intellectual property rights of
+whatever nature in the Software, including any modifications made thereto) are
+and shall remain the property of Andrii Burkatskyi.
+
+Andrii Burkatskyi reserves the right to grant licences to use the Software to
+third parties.
+
+
+You are permitted to:
+
+- load and install the Software on an unlimited number of Hosts. "Host" means
+  any physical or virtual machine which is directly controlled by you;
+- edit, alter, modify, adapt, translate or otherwise change the whole or any
+  part of the Software;
+- use it for any commercial purpose (except reproduce, copy, distribute or
+  resell the Software).
+
+
+You are not permitted to:
+
+- reproduce, copy, distribute, resell or sublicence the Software or otherwise
+  make available the Software to third parties, including by rental,
+  Software-as-a-Service models or otherwise
+- allow any third party to use the Software on behalf of or for the benefit of
+  any third party;
+- redistribute the Software on any Hosts which is not directly under your control
+- combine the whole or any part of the Software with or become incorporated in
+  any other software;
+- remove or obscure copyright or trademark notices, or the copyright and trademark
+  notices of third parties that have been included in the Software;
+- claim the Software work as your own;
+- use the Software in any way which breaches any applicable local, national or
+  international law;
+- use the Software for any purpose that Andrii Burkatskyi considers is a breach
+  of this EULA agreement;
+
+
+Disclaimer of Warranties
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+Termination
+
+This EULA agreement is effective from the date you get the Software and shall
+continue until terminated. You may terminate it at any time upon written
+notice to Andrii Burkatskyi.
+
+It will also terminate immediately if you fail to comply with any term of this
+EULA agreement. Upon such termination, the licenses granted by this EULA
+agreement will immediately terminate and you agree to stop all access and use
+of the Software. The provisions that by their nature continue and survive will
+survive any termination of this EULA agreement.
