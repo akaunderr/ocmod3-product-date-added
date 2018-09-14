@@ -1,8 +1,6 @@
 *.*
-!bin/product-date-added.ocmod.zip.g
+*/
 !.gitignore
 !EULA.txt
 !README.md
 !makebin.sh
-bin
-src
