@@ -19,7 +19,7 @@ Have been tested with 3.0.2.0 only, but should work with other OC 3.x versions.
 
 ## How to install
 * To begin, make backup, really!
-* Download zip-file: [bin/product-date-added.ocmod.zip](https://github.com/underr-ua/ocmod3-product-date-added/raw/master/bin/product-date-added.ocmod.zip)
+* Download zip-file: product-date-added.ocmod.zip
 * Open OpenCart Admin Panel
 * Extensions > Installer > [Upload]: open the file
 * See the "Success: You have modified extensions!" message
@@ -41,13 +41,9 @@ Have been tested with 3.0.2.0 only, but should work with other OC 3.x versions.
 * Go to Dashboard > [Developer Settings] > SASS [Refresh]
 
 ## Live demo
-* [Admin](http://051c5f20.freevar.com/www/plus/admin/index.php?route=extension/module/product_date_added) - Settings
-* [Admin](http://051c5f20.freevar.com/www/plus/admin/index.php?route=catalog/product) - Product list
-
+* Admin demo - [Settings](http://051c5f20.freevar.com/www/plus/admin/index.php?route=extension/module/product_date_added)
+* Admin demo - [Product list](http://051c5f20.freevar.com/www/plus/admin/index.php?route=catalog/product)
 
 ## Links
 * [opencart.com](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35071)
 * [underr.space](https://underr.space/notes/projects/project-009.html)
-
-## Donation
-<a href='https://www.liqpay.ua/en/checkout/card/underr' target='_blank'><img src='https://image.ibb.co/nA3HoS/liqpay.png' border='0' alt='Donate me with LiqPay'/></a>
