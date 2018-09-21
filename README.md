@@ -23,10 +23,10 @@ The extension has been tested with OC 3.0.2.0 only, but should work with other O
 * Admin > Dashboard > [Developer Settings] > [Refresh].
 
 ## How to configure
-* Admin > Extensions > Extensions > Modules > [underr] Product Date Added - [Enabled].
-* Admin > Extensions > Extensions > Modules > [underr] Product Date Added - [Edit] > Enabled.
-* To show column with dates when products was added enable "Show column".
-* To change product date added go to Products > Data > Date added.
+* Admin > Extensions > Extensions > Modules > [underr] Product Date Added - [Install].
+* Admin > Extensions > Extensions > Modules > [underr] Product Date Added - [Edit]:
+  * To show column with dates when products was added - enable "Show column".
+  * To change product date added go to Catalog > Products > Product [Edit] > Data > Date added.
 
 ## How to uninstall
 * Make backup.
@@ -36,12 +36,12 @@ The extension has been tested with OC 3.0.2.0 only, but should work with other O
 * Admin > Dashboard > [Developer Settings] > [Refresh].
 
 ## Live demo
-[Admin Demo](http://051c5f20.freevar.com/www/plus/admin/index.php?route=extension/module/product_date_added) - Settings
-[Admin Demo](http://051c5f20.freevar.com/www/plus/admin/index.php?route=catalog/product) - Product list
+* [Admin Demo](http://051c5f20.freevar.com/www/plus/admin/index.php?route=extension/module/product_date_added) - Settings
+* [Admin Demo](http://051c5f20.freevar.com/www/plus/admin/index.php?route=catalog/product) - Product list
 
 ## Links
-[Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35071)
-[underr.space](https://underr.space/notes/projects/project-009.html)
+* [Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35071)
+* [underr.space](https://underr.space/notes/projects/project-009.html)
 
 ## License
-[EULA](https://raw.githubusercontent.com/underr-ua/product-date-added/master/EULA.txt)
+* [EULA](https://raw.githubusercontent.com/underr-ua/product-date-added/master/EULA.txt)
