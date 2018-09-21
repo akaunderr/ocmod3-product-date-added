@@ -1,6 +1,3 @@
-*.*
-*/
-!.gitignore
-!EULA.txt
-!README.md
-!makebin.sh
+*.*~
+*
+.gitignore
