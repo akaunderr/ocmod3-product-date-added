@@ -1,12 +1,12 @@
-# Product Date Added v1.0 (https://github.com/underr-ua/ocmod3-product-date-added)
-# Copyright 2018 Burkatskyi Andrii aka underr
+# Product Date Added v1.1 (https://github.com/underr-ua/ocmod3-product-date-added)
+# Copyright 2019 Burkatskyi Andrii aka underr
 # EULA - https://raw.githubusercontent.com/underr-ua/product-date-added/master/EULA.txt
 
 zip=$(shell basename `pwd`).ocmod.zip
 
 license=EULA.txt
 readme=README.md
-datetime=201801010000.00
+datetime=201901010000.00
 src=src
 bin=bin
 

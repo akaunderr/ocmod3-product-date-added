@@ -1,19 +1,21 @@
 # Product Date Added
 
 ## Description
-The Product Date Added extension is for CMS Opencart 3. It allows to edit date when product was originally added.
+The Product Date Added extension is for CMS Opencart 3.x. It allows display and edit date when product was originally added.
 The extension has been tested with OC 3.0.2.0 only, but should work with other OC 3.x versions.
 
 ## Features
-* Allows to change date when product was added.
-* Shows column in product list with the dates (ON/OFF).
-* Allows sort products by it date added.
-* Multilangual - EN/UA/RU.
-* Does not change original files - OCMOD modification.
+* Column with addition dates of products.
+* Sort products by added date.
+* Ability to change the product date added.
+* Multilingual (settings only in EN/UA/RU).
+* OCMOD - does not change original files.
 
 ## Change log
+* v1.1(2019.01.24):
+  * Code improvements.
 * v1.0(2018.09.14):
-  * First release
+  * First release.
 
 ## How to install
 * To begin, make backup, really!
@@ -36,8 +38,8 @@ The extension has been tested with OC 3.0.2.0 only, but should work with other O
 * Admin > Dashboard > [Developer Settings] > [Refresh].
 
 ## Live demo
-* [Admin Demo](http://051c5f20.freevar.com/www/plus/admin/index.php?route=extension/module/product_date_added) - Settings
-* [Admin Demo](http://051c5f20.freevar.com/www/plus/admin/index.php?route=catalog/product) - Product list
+* [Admin Settings](https://oc.underr.thats.im/d1/admin/index.php?route=extension/module/product_date_added)
+* [Admin Demo](https://oc.underr.thats.im/d1/admin/index.php?route=catalog/product)
 
 ## Links
 * [Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35071)
