@@ -50,4 +50,4 @@ Please feel free to contact me by email <underr.public@gmail.com> or through the
 * [underr.space](https://underr.space/notes/projects/project-009.html)
 
 ## License
-* [EULA](https://raw.githubusercontent.com/underr-ua/product-date-added/master/EULA.txt)
+* [End-User License Agreement](https://raw.githubusercontent.com/underr-ua/product-date-added/master/EULA.txt)
