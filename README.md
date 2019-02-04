@@ -1,14 +1,13 @@
 # Product Date Added
 
 ## Description
-The Product Date Added extension is for CMS Opencart 3.x  Admin Panel. It allows display and edit date when product was originally added.
+The Product Date Added extension is for CMS Opencart 3.x Admin Panel. It allows to display and edit the date adding products. Also allows to filter and sort products by the date added.
 
 The extension has been tested with OC 3.0.2.0 only, but should work with other OC 3.x versions.
 
 Please feel free to contact me by email <underr.public@gmail.com> or through the support form and comments on Opencart Marketplace (see links below).
 
 ## Features
-* OpenCart Admin Panel extension.
 * Changing product added date.
 * Adding column with the product added date in the product list.
 * Sorting products by date added.
@@ -16,6 +15,8 @@ Please feel free to contact me by email <underr.public@gmail.com> or through the
 * OCMOD - does not change original files.
 
 ## Change log
+* v1.2(2019.02.01):
+  * Filter by date added.
 * v1.1(2019.01.24):
   * Code improvements.
 * v1.0(2018.09.14):
@@ -41,9 +42,13 @@ Please feel free to contact me by email <underr.public@gmail.com> or through the
 * Admin > Extensions > Modifications > [Refresh].
 * Admin > Dashboard > [Developer Settings] > [Refresh].
 
-## Live demo
-* [Admin Settings](https://oc.underr.thats.im/d1/admin/index.php?route=extension/module/product_date_added)
-* [Admin Demo](https://oc.underr.thats.im/d1/admin/index.php?route=catalog/product)
+## Live demo [Main]
+* [Admin Demo - Settings](http://ocmod.freevar.com/oc3020/a/admin/index.php?route=extension/module/product_date_added)
+* [Admin Demo - Product list](http://ocmod.freevar.com/oc3020/a/admin/index.php?route=catalog/product)
+
+## Live demo [Alternative]
+* [Admin Demo - Settings](https://oc3020.underr.thats.im/a/admin/index.php?route=extension/module/product_date_added)
+* [Admin Demo - Product list](https://oc3020.underr.thats.im/a/admin/index.php?route=catalog/product)
 
 ## Links
 * [Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35071)
