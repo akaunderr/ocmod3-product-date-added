@@ -5,7 +5,7 @@ The Product Date Added extension is for CMS Opencart 3.x Admin Panel. It allows 
 
 The extension has been tested with OC 3.0.2.0 only, but should work with other OC 3.x versions.
 
-Please feel free to contact me by email <underr.public@gmail.com> or through the support form and comments on Opencart Marketplace (see links below).
+Please feel free to contact me through the "GET SUPPORT" form or comments on Opencart Marketplace (see links below).
 
 ## Features
 * Changing product added date.
