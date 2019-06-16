@@ -43,12 +43,12 @@ Please feel free to contact me through the "GET SUPPORT" form or comments on Ope
 * Admin > Dashboard > [Developer Settings] > [Refresh].
 
 ## Live demo [Main]
-* [Admin Demo - Settings](http://ocmod.freevar.com/oc3020/a/admin/index.php?route=extension/module/product_date_added)
-* [Admin Demo - Product list](http://ocmod.freevar.com/oc3020/a/admin/index.php?route=catalog/product)
+* [Admin Demo - Settings](http://ocmod.freevar.com/oc3020/b/admin/index.php?route=extension/module/product_date_added)
+* [Admin Demo - Product list](http://ocmod.freevar.com/oc3020/b/admin/index.php?route=catalog/product)
 
 ## Live demo [Alternative]
-* [Admin Demo - Settings](https://oc3020.underr.thats.im/a/admin/index.php?route=extension/module/product_date_added)
-* [Admin Demo - Product list](https://oc3020.underr.thats.im/a/admin/index.php?route=catalog/product)
+* [Admin Demo - Settings](https://oc3020.underr.thats.im/b/admin/index.php?route=extension/module/product_date_added)
+* [Admin Demo - Product list](https://oc3020.underr.thats.im/b/admin/index.php?route=catalog/product)
 
 ## Links
 * [Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35071)
